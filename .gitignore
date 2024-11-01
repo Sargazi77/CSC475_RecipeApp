@@ -1,0 +1,84 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+# Gradle files
+.gradle/
+**/build/
+**/local.properties
+**/out/
+**/generated/
+**/build/
+
+# Log files
+*.log
+
+# Android Studio files
+.idea/
+*.iml
+*.hprof
+captures/
+
+# Generated files
+*.apk
+*.ap_
+output.json
+
+# Android-specific files
+.DS_Store
+*.class
+*.dex
+*.apk
+*.ap_
+*.dSYM/
+*.so
+*.lib
+*.jar
+*.war
+*.ear
+
+# Keystore files (important for release signing, don't commit these)
+*.jks
+*.keystore
+
+# Other files
+.cxx/
+.externalNativeBuild/
+
+# Node and npm files
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# IntelliJ IDEA files
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/gradle.xml
+.idea/libraries
+.idea/.name
+.idea/modules.xml
+.idea/jarRepositories.xml
+.idea/kotlin.xml
+.idea/vcs.xml
+.idea/jsLibraryMappings.xml
+.idea/dictionaries
+
+# Mac system files
+.DS_Store
+
+# Miscellaneous
+*.swp
+*~.nib
+*.orig
+*.pyc
